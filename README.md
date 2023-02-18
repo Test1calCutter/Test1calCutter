@@ -14,4 +14,6 @@
 - HTML & CSS
 
 <h1>Heres a cool image!</h1>
-<iframe src="https://cdn.discordapp.com/attachments/917569655139348543/1075184317396951061/ssstik.io_1676414301471.mp4">
+    <video width="320" height="240" controls>
+      <source src="https://cdn.discordapp.com/attachments/917569655139348543/1075184317396951061/ssstik.io_1676414301471.mp4" type=video/mp4>
+    </video>
