@@ -13,7 +13,6 @@
 - JavaScript
 - HTML & CSS
 
-<h1>Heres a cool image!</h1>
-    <video width="320" height="240" controls>
-      <source src="https://cdn.discordapp.com/attachments/917569655139348543/1075184317396951061/ssstik.io_1676414301471.mp4" type=video/mp4>
-    </video>
+<h1>Heres a cool cat I found!</h1>
+<img src="https://cdn.discordapp.com/attachments/917569655139348543/1075200819470802994/012c3634f6935ec78f454ca36e8820ad.jpg">
+<img src="https://cdn.discordapp.com/attachments/917569655139348543/1075200819709870130/fadd861aef9bf2cc158fa18c08e72053.jpg">
