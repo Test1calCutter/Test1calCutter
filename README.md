@@ -14,5 +14,4 @@
 - HTML & CSS
 
 <h1>Heres a cool cat I found!</h1>
-<img src="https://cdn.discordapp.com/attachments/917569655139348543/1075200819470802994/012c3634f6935ec78f454ca36e8820ad.jpg">
 <img src="https://cdn.discordapp.com/attachments/917569655139348543/1075200819709870130/fadd861aef9bf2cc158fa18c08e72053.jpg">
