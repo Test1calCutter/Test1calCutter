@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about HTML and CSS
 - 📫 How to reach me: [Discord](https://www.discord.com/users/545015390020042752)
-- 😄 My portfolio: [Click here](https://www.appropriate.cf) 
 - ⚡ Fun fact: I'm 16 Years old!
 
 <h1>Social</h1>
