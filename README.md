@@ -1,10 +1,10 @@
 <h1>About me</h1>
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about HTML and CSS
+- 🔭 I’m currently working with JavaScript, HTML and CSS!
+- 🌱 I’m currently learning backend
+- 💬 You need help? Not my problem :) 
 - 📫 How to reach me: [Discord](https://www.discord.com/users/545015390020042752)
-- ⚡ Fun fact: I'm 16 Years old!
+- ⚡ I'm 16 years old!
 
 <h1>Social</h1>
 
