@@ -5,7 +5,7 @@
 - 💬 You need help? Not my problem :) 
 - 📫 How to reach me: [Discord](https://www.discord.com/users/545015390020042752)
 - ⚡ I'm 16 years old, turning 17 in Janurary!
-- ![My Portfolio](https://www.appropriate.cf)
+- 🌍 [My Portfolio](https://www.appropriate.cf)
 
 <h1>Social</h1>
 
