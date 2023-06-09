@@ -4,14 +4,15 @@
 - 🌱 I’m currently learning backend
 - 💬 You need help? Not my problem :) 
 - 📫 How to reach me: [Discord](https://www.discord.com/users/545015390020042752)
-- ⚡ I'm 16 years old!
+- ⚡ I'm 16 years old, turning 17 in Janurary!
+- ![My Portfolio](https://www.appropriate.cf)
 
 <h1>Social</h1>
 
 - <a href="https://www.discord.com/users/545015390020042752"><img src="https://img.shields.io/badge/Discord%20@VeryAppropriateName-344E86?style=for-the-badge&logo=discord&logoColor=white"/></a>
 - <a href="https://twitter.com/testicalcutter"><img src="https://img.shields.io/badge/twitter%20@TesticalCutter-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-<h1>Languages</h1>
+<h1>Skills</h1>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
