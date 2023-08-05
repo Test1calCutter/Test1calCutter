@@ -8,7 +8,7 @@
 </a>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/308440976723148800?borderRadius=20px&animated=true&idleMessage=spin%20isn%27t%20currently%20doing%20anything" />
+  <img src="https://lanyard.cnrad.dev/api/545015390020042752?borderRadius=20px&animated=true&idleMessage=spin%20isn%27t%20currently%20doing%20anything" />
   <br />
   <br />
 </p>
