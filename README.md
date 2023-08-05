@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](https://cdn.discordapp.com/attachments/917569655139348543/1137185420166312007/header.png)
 
 <h1 align="center">Noel</h1>
 <p align="center">Hobby programmer that loves to start but never finish random projects.</p>
@@ -13,7 +13,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=test1calcutter" id="counter">
 </p>
 
-![Footer](./footer.png)
+![Footer](https://cdn.discordapp.com/attachments/917569655139348543/1137185606443745454/footer.png)
 
 
 
