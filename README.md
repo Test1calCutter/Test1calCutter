@@ -17,8 +17,7 @@ I am a hobby programmer from Germany. I'm currently unemployed but that will cha
 
 ## 🔗 Connect with me on :
 
-[Connect on Discord](https://discordapp.com/users/545015390020042752) (<- currently suspended)
-[Connect on Discord](https://discordapp.com/users/896280278870401055)
+[Connect on Discord](https://discordapp.com/users/545015390020042752)
 
 ### 👀 visitor count
 
