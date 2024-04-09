@@ -13,7 +13,7 @@
 </div>
 
 
-I am a hobby programmer from Germany. I'm currently unemployed but that will change soon. I am trying to improve in __web design__ and __frontend & backend web development__
+I am a hobby programmer from Germany. I'm currently working in construction sites. I am trying to improve in __web design__ and __frontend & backend web development__
 
 ## 🔗 Connect with me on :
 
