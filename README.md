@@ -11,7 +11,7 @@
 ```javascript
 const noel = {
   pronouns: "he" | "him",
-  code: ["Javascript", "HTML", "CSS", "Python", "Lua"],
+  code: ["Javascript", "HTML", "CSS", "Python", "Lua", "PHP"],
   tools: ["Node"],
   hobbies: ["Programming", "Studying", "Playing Games"]
 };
