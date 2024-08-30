@@ -8,13 +8,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const noel = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "HTML", "CSS", "Python", "Lua", "PHP"],
-  tools: ["Node"],
-  hobbies: ["Programming", "Studying", "Playing Games"]
-};
+```php
+$noel = [
+    'pronouns' => ['he', 'him'],
+    'code' => ['Javascript', 'HTML', 'CSS', 'Python', 'Lua', 'PHP'],
+    'tools' => ['Node'],
+    'hobbies' => ['Programming', 'Studying', 'Playing Games']
+];
 ```
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
