@@ -1,5 +1,5 @@
 <h2> Hi, I'm Noel!</h2>
-<p><em>Professional alcoholic & jobless disappointment, hobby programmer</em></p>
+<p><em>Professional alcoholic & hobby programmer</em></p>
 
 [![Twitter: TesticalCutter](https://img.shields.io/twitter/follow/testicalcutter?style=social)](https://twitter.com/testicalcutter)
 [![Discord: Noel](https://img.shields.io/badge/-Noel-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/545015390020042752)](https://discord.com/users/545015390020042752)
