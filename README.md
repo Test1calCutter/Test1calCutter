@@ -11,8 +11,8 @@
 ```php
 $noel = [
     'pronouns' => ['he', 'him'],
-    'code' => ['Javascript', 'HTML', 'CSS', 'Python', 'Lua', 'PHP'],
-    'tools' => ['Node'],
+    'code' => ['Javascript', 'HTML', 'CSS', 'Python', 'Lua', 'PHP', 'Tailwind CSS'],
+    'tools' => ['Node', 'React', 'Next.js'],
     'hobbies' => ['Programming', 'Studying', 'Playing Games']
 ];
 ```
