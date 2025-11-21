@@ -12,10 +12,9 @@
 
 
 ### Glad to see you here!  
-I’m a 18 year old German full-stack freelancer. Being full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+Hey! I'm Noel, an 18 year old developer based in Germany.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
-  
+I do fullstack freelancing, which is just a fancy way of saying I build everything: the smooth websites and apps you click on, and the complex stuff you don't see.
 
 <br/>  
 
@@ -23,9 +22,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## What I'm up to  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently creating Next.API -- An API provider for Discord bots
+- 🌱 I’m currently creating Next.API - A free API provider for Discord bots
   
-
 - 🍻 Fun fact: I'm an alcoholic  
 </table>  
 
@@ -53,7 +51,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://media.discordapp.net/attachments/1008358670658195536/1419980446627795018/enterprise.png?ex=68d3bb58&is=68d269d8&hm=43b351d39c4b5a95d1ecbb2d4cfc73d0fbf1b664293e905ef0555023c2971827&=&format=webp&quality=lossless" alt="Burp Suite" height="45" /></a>
 </div>  
 
 <br/>  
